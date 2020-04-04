@@ -1,0 +1,12 @@
+//using if else statement
+var name = 'John';
+var age = 26;
+var isMarried === 'no';
+{
+//if false
+console.log(name + 'isMarried!');
+}
+else
+{
+console.log(name + 'will hopefully marry soon:' );
+}
